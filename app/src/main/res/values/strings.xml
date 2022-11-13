@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">practika_1day</string>
+    <string name="title_activity_alarm">AlarmActivity</string>
+    <string name="title_activity_calendar">CalendarActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_sign_in">Sign_inActivity</string>
+    <string name="title_activity_sugn_up">Sugn_upActivity</string>
+    <string name="title_activity_sign_up">Sign_upActivity</string>
+    <string name="title_activity_add_task">AddTaskActivity</string>
+    <string name="title_activity_edit_task">EditTaskActivity</string>
+    <string name="title_activity_create_alarm">CreateAlarmActivity</string>
+    <string name="title_activity_edit_alarm">EditAlarmActivity</string>
+</resources>
